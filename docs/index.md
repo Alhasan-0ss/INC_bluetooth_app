@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://raw.githubusercontent.com/Eszter96/INC_bluetooth_app/webpage/docs/images/devices.JPG)
 ```
-
+![Image](https://raw.githubusercontent.com/Eszter96/INC_bluetooth_app/webpage/docs/images/devices.JPG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
