@@ -15,6 +15,9 @@ INC team believes in connecting the world without wires, we wants that everyone 
 
 Increase awareness and understanding using bluetoothtechnology, to connect the whole world without using wires. 
 
+### ABout the APP
+
+
 This App was created by GM-DT's team and developed by INC's team. 
 
 
