@@ -1,4 +1,4 @@
-## Welcome to out page
+## Welcome to our page
 
 You can use the [editor on GitHub](https://github.com/Eszter96/INC_bluetooth_app/edit/webpage/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
