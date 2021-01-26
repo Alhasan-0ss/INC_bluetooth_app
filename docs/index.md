@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](images/devices.JPG)
 ```
-<img src="images/devices.JPG" > 
+<img src="images/devices.JPG" width="50%" height="auto">  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
