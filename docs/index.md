@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/Eszter96/INC_bluetooth_app
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="images/devices.JPG" width="200">  
+<img src="images/scanning.JPG" width="200"><img src="images/devices.JPG" width="200">  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
