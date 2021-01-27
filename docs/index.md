@@ -6,7 +6,7 @@ This application has many features that will please any user.
 <ol>
   <li>Сreating many profiles</li>
   <li>Switch accounts</li>
-  <li>Вluetooth connection status indicator</li
+  <li>Вluetooth connection status indicator</li>
   <li> Bluetooth notifications</li>
 </ol>
 
