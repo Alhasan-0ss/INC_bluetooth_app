@@ -1,5 +1,5 @@
 ## Welcome to our page
-<h2>BLUETOOTH APP</h2><center></center>
+<center><h2>BLUETOOTH APP</h2></center>
 
 With this app you can locate and find your bluetooth devices using the received signal strength indication (rssi), the closer you get, the stronger the signal will be. DOES NOT WORK WITH HEADSET.
 The devices will be displayed in a list with their: name, time of discovery and a graphical signal strength. Depending on the device the signal strength could be updated on 1-10 seconds intervals.
