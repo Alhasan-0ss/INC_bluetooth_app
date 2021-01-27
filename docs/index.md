@@ -32,4 +32,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with the Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<img src="download/contact-us.PNG" width="200" align="left">
+<img src="download/contact-us.jpg" width="200" align="center">
