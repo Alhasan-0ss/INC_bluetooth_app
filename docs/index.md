@@ -18,7 +18,7 @@ This application has many features that will please any user.
 
 INC team believes in connecting the world without wires, we wants that everyone could be able to connect in secure, easy and wireless way. In our INC team work environment  we are seeking to find the purpose in the work creatively. by working hard our aim is to always win, during official working hours. one of our best thing in our work is balance and collaborating  with our clients we respect them.      
 
-Increase awareness and understanding using bluetoothtechnology, to connect the whole world without using wires. 
+Increase awareness and understanding using bluetooth technology, to connect the whole world without using wires. 
 
 ### About the APP
 
