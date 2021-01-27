@@ -1,4 +1,5 @@
 ## Welcome to our page
+<h2>BLUETOOTH APP</h2><center></center>
 
 With this app you can locate and find your bluetooth devices using the received signal strength indication (rssi), the closer you get, the stronger the signal will be. DOES NOT WORK WITH HEADSET.
 The devices will be displayed in a list with their: name, time of discovery and a graphical signal strength. Depending on the device the signal strength could be updated on 1-10 seconds intervals.
@@ -25,6 +26,7 @@ Increase awareness and understanding using bluetoothtechnology, to connect the w
 This App was created by GM-DT's team and developed by INC's team. 
 
 
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eszter96/INC_bluetooth_app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
