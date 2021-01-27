@@ -2,7 +2,7 @@
 
 With this app you can locate and find your bluetooth devices using the received signal strength indication (rssi), the closer you get, the stronger the signal will be. DOES NOT WORK WITH HEADSET.
 
-<img src="images/scanning.JPG" width="200"><img src="images/devices.JPG" width="200">        <img src="images/1200px-Bluetooth.svg.png" width="150">    
+<img src="images/scanning.JPG" width="200">          <img src="images/devices.JPG" width="200">                         <img src="images/1200px-Bluetooth.svg.png" width="150">    
 
 
 ### Careers
