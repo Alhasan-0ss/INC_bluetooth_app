@@ -25,7 +25,6 @@ Increase awareness and understanding using bluetoothtechnology, to connect the w
 This App was created by GM-DT's team and developed by INC's team. 
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eszter96/INC_bluetooth_app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
